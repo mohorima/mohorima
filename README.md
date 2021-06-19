@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mohorima
 - 👀 I’m interested in UI/UX Design, and Web Development, mostly front-end.
-- 🌱 I’m currently learning more about Javascript frameworks.
-- 💞️ I’m looking to collaborate on your next web dev project.
+- 💞️ Check out my projects to know more about my work, and feel free to reach out if you wish to collaborate.
 - 📫 Reach me through islammohorima@gmail.com
 
 <!---
