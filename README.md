@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @mohorima
-- 👀 I’m interested in UI/UX Design, and Web Development, mostly front-end.
-- 💞️ Check out my projects to know more about my work, and feel free to reach out if you wish to collaborate.
+- Find me @ https://mohorima-portfolio.netlify.app
+- 👀 I’m a UI/UX Design, and Full Stack Web Developer.
+- I have 1+ years of experience working with Laravel, Vue, CSS3, SASS, MySQL and more.
+- 💞️ Check out my portfolio or projects to know more about my work, and feel free to reach out if you wish to collaborate.
 - 📫 Reach me through islammohorima@gmail.com
 
 <!---
